@@ -1,0 +1,13 @@
+dotenv
+langchain
+langchain-groq
+langgraph
+pymupdf
+pypdf
+cohere
+
+langchain-community
+beatifulsoup4
+langchain-huggingface
+sentence-transformers
+langchain-cohere
